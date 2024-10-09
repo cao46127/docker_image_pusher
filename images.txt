@@ -7,4 +7,5 @@ docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 redis:7.2.4
 mysql:5.7.18
 #支持指定架构
+#20241009更新
 --platform=linux/arm64 xiaoyaliu/alist
