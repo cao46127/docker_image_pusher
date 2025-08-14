@@ -18,5 +18,5 @@
 #mysql:5.7.18
 #支持指定架构
 #20241009更新
-multiarch/qemu-user-static
+--platform=linux/arm64/v8 multiarch/qemu-user-static
 --platform=linux/arm64/v8 xiaoyaliu/alist
