@@ -19,4 +19,5 @@
 #支持指定架构
 #20241009更新
 multiarch/qemu-user-static
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64/v8
+
