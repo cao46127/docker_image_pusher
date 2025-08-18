@@ -18,7 +18,9 @@
 #mysql:5.7.18
 #支持指定架构
 #20241009更新
---platform linux/arm64 alekitto/qemu-user-static:register
---platform linux/arm64 alekitto/qemu-user-static:latest
+#--platform linux/arm64 alekitto/qemu-user-static:register
+#--platform linux/arm64 alekitto/qemu-user-static:latest
+jaywoods/kylin-server-v10:sp3-2303
+--platform linux/arm64 jaywoods/kylin-server-v10:sp3-2303
 #--platform=linux/arm64 multiarch/qemu-user-static
 #--platform=linux/arm64/v8 xiaoyaliu/alist
