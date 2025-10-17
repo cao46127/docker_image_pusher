@@ -20,7 +20,8 @@
 #20241009更新
 #--platform linux/arm64 alekitto/qemu-user-static:register
 #--platform linux/arm64 alekitto/qemu-user-static:latest
-jaywoods/kylin-server-v10:sp3-2303
---platform linux/arm64 jaywoods/kylin-server-v10:sp3-2303
+#jaywoods/kylin-server-v10:sp3-2303
+#--platform linux/arm64 jaywoods/kylin-server-v10:sp3-2303
 #--platform=linux/arm64 multiarch/qemu-user-static
 #--platform=linux/arm64/v8 xiaoyaliu/alist
+llody/sonarqube-datacenter:v10.4
