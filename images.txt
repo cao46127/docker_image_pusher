@@ -24,4 +24,5 @@
 #--platform linux/arm64 jaywoods/kylin-server-v10:sp3-2303
 #--platform=linux/arm64 multiarch/qemu-user-static
 #--platform=linux/arm64/v8 xiaoyaliu/alist
-llody/sonarqube-datacenter:v10.4
+#llody/sonarqube-datacenter:v10.4
+n8nio/n8n:1.115.4-amd64
