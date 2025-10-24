@@ -25,4 +25,4 @@
 #--platform=linux/arm64 multiarch/qemu-user-static
 #--platform=linux/arm64/v8 xiaoyaliu/alist
 #llody/sonarqube-datacenter:v10.4
-n8nio/n8n:1.115.4-amd64
+n8nio/n8n:1.115.3-amd64
