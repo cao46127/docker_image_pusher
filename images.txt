@@ -27,4 +27,5 @@
 #llody/sonarqube-datacenter:v10.4
 #n8nio/n8n:1.115.3-amd64
 #lfnovo/open_notebook:v1-latest-single
-pytorch/pytorch:2.5.1-cuda12.1-cudnn9-devel
+#pytorch/pytorch:2.5.1-cuda12.1-cudnn9-devel
+pytorch/pytorch:2.9.1-cuda13.0-cudnn9-devel
