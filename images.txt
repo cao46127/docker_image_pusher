@@ -30,4 +30,5 @@
 #pytorch/pytorch:2.5.1-cuda12.1-cudnn9-devel
 #pytorch/pytorch:2.9.1-cuda13.0-cudnn9-devel
 #vllm/vllm-openai:latest
-dyrnq/open-webui:v0.3.20
+#dyrnq/open-webui:v0.3.20
+vllm/vllm-openai:cu130-nightly
