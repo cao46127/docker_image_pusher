@@ -33,4 +33,4 @@
 #dyrnq/open-webui:v0.3.20
 #vllm/vllm-openai:cu130-nightly
 ai/glm-4.7-flash-vllm:31B
-#ai/glm-4.7-flash-vllm:latest
+ai/glm-4.7-flash-vllm:latest
