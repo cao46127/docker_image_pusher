@@ -34,4 +34,5 @@
 #vllm/vllm-openai:cu130-nightly
 #ai/glm-4.7-flash-vllm:31B
 #ai/glm-4.7-flash-vllm:latest
-0xm00n/vllm-blackwell:latest
+vllm/vllm-openai:v0.17.0-cu130
+vllm/vllm-openai:v0.11.0
