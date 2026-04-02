@@ -34,7 +34,8 @@
 #vllm/vllm-openai:cu130-nightly
 #ai/glm-4.7-flash-vllm:31B
 #ai/glm-4.7-flash-vllm:latest
-vllm/vllm-openai:v0.17.0-cu130
-vllm/vllm-openai:v0.11.0
-vllm/vllm-openai:v0.18.0-aarch64-cu130
-vllm/vllm-openai:cu130-nightly-aarch64
+#vllm/vllm-openai:v0.17.0-cu130
+#vllm/vllm-openai:v0.11.0
+#vllm/vllm-openai:v0.18.0-aarch64-cu130
+#vllm/vllm-openai:cu130-nightly-aarch64
+--platform=linux/arm64 ollama/ollama:latest
