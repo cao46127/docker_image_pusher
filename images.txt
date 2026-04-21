@@ -37,9 +37,10 @@
 #vllm/vllm-openai:v0.17.0-cu130
 #vllm/vllm-openai:v0.11.0
 #vllm/vllm-openai:v0.18.0-aarch64-cu130
-vllm/vllm-openai:cu130-nightly-aarch64
+#vllm/vllm-openai:cu130-nightly-aarch64
 #--platform=linux/arm64 ollama/ollama:latest
 #vllm/vllm-openai:cu130-nightly-x86_64
 #vllm/vllm-openai:gemma4-arm64-cu130
 #avarok/dgx-vllm-nvfp4-kernel:latest
-ghcr.io/aeon-7/vllm-spark-omni-q36:v1.2
+#ghcr.io/aeon-7/vllm-spark-omni-q36:v1.2
+vllm/vllm-openai:cu130-nightly-x86_64
