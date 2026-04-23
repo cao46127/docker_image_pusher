@@ -43,4 +43,5 @@
 #vllm/vllm-openai:gemma4-arm64-cu130
 #avarok/dgx-vllm-nvfp4-kernel:latest
 #ghcr.io/aeon-7/vllm-spark-omni-q36:v1.2
-vllm/vllm-openai:cu130-nightly-x86_64
+#vllm/vllm-openai:cu130-nightly-x86_64
+--platform linux/amd64 openwebui/open-webui:0.9-cuda126
