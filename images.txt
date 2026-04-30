@@ -45,4 +45,5 @@
 #ghcr.io/aeon-7/vllm-spark-omni-q36:v1.2
 #vllm/vllm-openai:cu130-nightly-x86_64
 #--platform linux/amd64 openwebui/open-webui:0.9-cuda126
-yanwk/comfyui-boot:cu130-megapak-pt211-20260418
+#yanwk/comfyui-boot:cu130-megapak-pt211-20260418
+qdrant/qdrant:latest
