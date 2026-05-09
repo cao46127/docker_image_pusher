@@ -46,4 +46,6 @@
 #vllm/vllm-openai:cu130-nightly-x86_64
 #--platform linux/amd64 openwebui/open-webui:0.9-cuda126
 #yanwk/comfyui-boot:cu130-megapak-pt211-20260418
-qdrant/qdrant:latest
+#qdrant/qdrant:latest
+vllm/vllm-openai:nightly-aarch64
+vllm/vllm-openai:gemma4-0505-x86_64_cu130
