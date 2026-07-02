@@ -48,4 +48,5 @@
 #yanwk/comfyui-boot:cu130-megapak-pt211-20260418
 #qdrant/qdrant:latest
 vllm/vllm-openai:nightly-aarch64
-vllm/vllm-openai:gemma4-0505-x86_64_cu130
+#vllm/vllm-openai:gemma4-0505-x86_64_cu130
+vllm/vllm-openai:nightly-x86_64
