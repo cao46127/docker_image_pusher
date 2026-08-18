@@ -52,4 +52,6 @@
 #vllm/vllm-openai:nightly-x86_64
 #vllm/vllm-openai:v0.24.0-aarch64-ubuntu2404
 #vllm/vllm-openai:v0.24.0-x86_64-ubuntu2404
-vllm/vllm-openai:qwen38-x86_64-cu130
+#vllm/vllm-openai:qwen38-x86_64-cu130
+ghcr.io/bjk110/vllm-spark:unholy-fusion-prod-ready
+ghcr.io/anemll/dspark-vllm-gx10:0.1.1
