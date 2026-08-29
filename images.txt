@@ -55,4 +55,5 @@
 #vllm/vllm-openai:qwen38-x86_64-cu130
 #ghcr.io/bjk110/vllm-spark:unholy-fusion-prod-ready
 #ghcr.io/anemll/dspark-vllm-gx10:0.1.1
-ghcr.io/spark-arena/dgx-vllm-eugr-nightly:latest
+#ghcr.io/spark-arena/dgx-vllm-eugr-nightly:latest
+lmsysorg/sglang:qwen38-27b
